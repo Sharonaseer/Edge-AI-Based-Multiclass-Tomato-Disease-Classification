@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer%20Vision-green)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-Edge%20AI-red)
+![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-orange)
+
 # 🌿 Edge AI-Based Multiclass Tomato Leaf Disease Classification using YOLOv8 on Raspberry Pi
 
 ## 📌 Project Overview
